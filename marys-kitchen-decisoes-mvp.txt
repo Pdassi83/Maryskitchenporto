@@ -1,0 +1,82 @@
+MARY'S KITCHEN — DECISÕES DO SITE / BETA
+Atualizado: 26 de agosto de 2026
+
+1. OBJETIVO
+
+- Site mobile-first para encomendar refeições vegetarianas.
+- Funciona em browser no Android e iOS, sem instalação obrigatória.
+- Área pública para clientes e painel privado de gestão semanal.
+
+2. FUNCIONAMENTO SEMANAL
+
+- Nova ementa publicada à quarta-feira.
+- Encomendas fecham à sexta-feira.
+- Entrega ou recolha à segunda-feira, das 12h30 às 16h00.
+- Local indicado ou combinado no ato da encomenda.
+- Entrega incluída na cidade do Porto.
+- Limite inicial: 100 doses no total de cada semana, alterável no painel.
+
+3. KIT E PREÇO
+
+- Cada encomenda corresponde a um kit com exatamente 5 refeições.
+- O cliente pode repetir pratos e trocar a composição livremente.
+- Preço do kit de 5 refeições com entrega incluída: 30,00 EUR.
+- O preço pode ser alterado no painel.
+- Sobremesas e extras ficam para uma fase posterior.
+
+4. ALTERAÇÕES E ALERGIAS
+
+- O cliente pode indicar alergias, restrições e alterações pretendidas.
+- As alterações ficam sujeitas à aprovação manual da Mary.
+- Pedidos com observações são assinalados no painel.
+
+5. PAGAMENTO E CONFIRMAÇÃO
+
+- Métodos: MB WAY, transferência bancária e dinheiro.
+- Não existe pagamento por cartão no site nesta fase.
+- A Mary confirma manualmente o pagamento.
+- Confirmação desejada por email e WhatsApp; durante a beta é manual.
+- Não existe faturação integrada no site nesta fase.
+
+6. GESTÃO E PERMISSÕES
+
+MARY — GESTORA OPERACIONAL
+- Publicar e editar a ementa semanal.
+- Alterar pratos, fotografias, descrições, alergénios, preço e limite de doses.
+- Consultar encomendas e resumo de produção.
+- Validar alterações, pagamentos e estados das encomendas.
+- Exportar encomendas em CSV.
+
+FERNANDO — SUPERADMINISTRADOR
+- Manter sempre acesso administrativo total.
+- Gerir acessos, configurações e alterações estruturais ou técnicas.
+
+7. PUBLICAÇÃO
+
+- Endereço da beta: https://maryskitchenporto.netlify.app
+- Domínio próprio fica para mais tarde.
+- Publicação pública em modo de teste.
+- Repositório GitHub atual: Pdassi83/Maryskitchenporto (público).
+- O email da Mary será adicionado mais tarde.
+- Até existir esse email, o painel usa um acesso temporário protegido.
+
+8. CONTACTOS E EVENTOS
+
+- Instagram: https://www.instagram.com/maryskitchen.porto?igsi=MWExd3Vtb2QzeXR4NA==
+- O final do site inclui uma área "Follow us" com ligação ao Instagram.
+- A Mary aceita pedidos de catering vegetariano para eventos no Porto.
+- Contacto para eventos: 915 598 049, com botão direto para WhatsApp.
+
+9. ELEMENTOS PARA DEFINIR MAIS TARDE
+
+- Email da Mary e autenticação definitiva por utilizador.
+- Número de MB WAY e dados para transferência.
+- Morada e regras finais dos locais de recolha.
+- Política de privacidade, termos e conservação de dados.
+- Automatização de email e WhatsApp.
+- Domínio próprio.
+
+NOTA
+
+Esta é uma beta pública para testes. O cliente não deve efetuar pagamentos antes
+da confirmação direta da Mary. Preço, limite, datas e ementa são editáveis.
